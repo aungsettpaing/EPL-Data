@@ -1,0 +1,111 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR,season,Home,HalfResult,FinalResult,Point,FTGT,FTGC
+2019-12-26,Bournemouth,Arsenal,1,1,D,1,0,H,S Attwell,12,17,4,2,5,13,8,3,4,4,0,0,2019-2020,No,Lose,Draw,1,1,1
+2019-12-29,Arsenal,Chelsea,1,2,A,1,0,H,C Pawson,7,13,2,4,13,19,2,3,5,4,0,0,2019-2020,Yes,Win,Lose,0,1,2
+2020-01-01,Arsenal,Man United,2,0,H,2,0,H,C Kavanagh,10,10,4,4,11,15,1,4,2,0,0,0,2019-2020,Yes,Win,Win,3,2,0
+2020-01-11,Crystal Palace,Arsenal,1,1,D,0,1,A,P Tierney,6,7,3,4,14,22,1,4,2,3,0,1,2019-2020,No,Win,Draw,1,1,1
+2020-01-18,Arsenal,Sheffield United,1,1,D,1,0,H,M Dean,11,12,4,4,9,13,4,5,1,2,0,0,2019-2020,Yes,Win,Draw,1,1,1
+2020-01-21,Chelsea,Arsenal,2,2,D,1,0,H,S Attwell,19,2,8,2,11,6,17,5,2,1,0,1,2019-2020,No,Lose,Draw,1,2,2
+2020-02-02,Burnley,Arsenal,0,0,D,0,0,D,C Kavanagh,15,13,2,2,8,11,5,7,1,3,0,0,2019-2020,No,Draw,Draw,1,0,0
+2020-02-16,Arsenal,Newcastle,4,0,H,0,0,D,L Mason,15,10,7,2,15,9,5,6,2,0,0,0,2019-2020,Yes,Draw,Win,3,4,0
+2020-02-23,Arsenal,Everton,3,2,H,2,2,D,S Attwell,9,17,4,5,12,12,6,3,0,4,0,0,2019-2020,Yes,Draw,Win,3,3,2
+2020-03-07,Arsenal,West Ham,1,0,H,0,0,D,M Atkinson,9,14,2,6,11,9,6,7,1,2,0,0,2019-2020,Yes,Draw,Win,3,1,0
+2020-06-17,Man City,Arsenal,3,0,H,1,0,H,A Taylor,20,3,12,0,9,7,5,2,1,1,0,1,2019-2020,No,Lose,Lose,0,0,3
+2020-06-20,Brighton,Arsenal,2,1,H,0,0,D,M Atkinson,9,13,5,6,13,8,10,7,2,1,0,0,2019-2020,No,Draw,Lose,0,1,2
+2020-06-25,Southampton,Arsenal,0,2,A,0,1,A,G Scott,12,10,3,5,10,14,4,6,0,2,1,0,2019-2020,No,Win,Win,3,2,0
+2020-07-01,Arsenal,Norwich,4,0,H,2,0,H,P Bankes,13,8,8,2,10,10,6,2,1,4,0,0,2019-2020,Yes,Win,Win,3,4,0
+2020-07-04,Wolves,Arsenal,0,2,A,0,1,A,M Oliver,10,8,1,5,6,11,3,5,2,4,0,0,2019-2020,No,Win,Win,3,2,0
+2020-07-07,Arsenal,Leicester,1,1,D,1,0,H,C Kavanagh,11,13,7,5,10,14,10,1,1,0,1,0,2019-2020,Yes,Win,Draw,1,1,1
+2020-07-12,Tottenham,Arsenal,2,1,H,1,1,D,M Oliver,15,13,9,4,16,11,6,5,5,3,0,0,2019-2020,No,Draw,Lose,0,1,2
+2020-07-15,Arsenal,Liverpool,2,1,H,2,1,H,P Tierney,3,24,2,8,14,10,2,13,3,1,0,0,2019-2020,Yes,Win,Win,3,2,1
+2020-07-21,Aston Villa,Arsenal,1,0,H,1,0,H,C Kavanagh,8,7,3,0,13,19,8,9,2,4,0,0,2019-2020,No,Lose,Lose,0,0,1
+2020-07-26,Arsenal,Watford,3,2,H,3,1,H,M Dean,13,19,5,6,9,12,4,8,3,3,0,0,2019-2020,Yes,Win,Win,3,3,2
+2020-09-12,Fulham,Arsenal,0,3,A,0,1,A,C Kavanagh,5,13,2,6,12,12,2,3,2,2,0,0,2020-2021,No,Win,Win,3,3,0
+2020-09-19,Arsenal,West Ham,2,1,H,1,1,D,M Oliver,7,14,3,3,11,13,7,5,0,1,0,0,2020-2021,Yes,Draw,Win,3,2,1
+2020-09-28,Liverpool,Arsenal,3,1,H,2,1,H,C Pawson,21,4,8,3,11,7,7,3,2,2,0,0,2020-2021,No,Lose,Lose,0,1,3
+2020-10-04,Arsenal,Sheffield United,2,1,H,0,0,D,L Mason,6,6,5,2,3,9,2,4,0,1,0,0,2020-2021,Yes,Draw,Win,3,2,1
+2020-10-17,Man City,Arsenal,1,0,H,1,0,H,C Kavanagh,13,11,5,3,15,10,6,6,4,1,0,0,2020-2021,No,Lose,Lose,0,0,1
+2020-10-25,Arsenal,Leicester,0,1,A,0,0,D,C Pawson,12,6,4,2,13,9,9,3,3,5,0,0,2020-2021,Yes,Draw,Lose,0,0,1
+2020-11-01,Man United,Arsenal,0,1,A,0,0,D,M Dean,8,7,2,2,12,12,6,3,3,3,0,0,2020-2021,No,Draw,Win,3,1,0
+2020-11-08,Arsenal,Aston Villa,0,3,A,0,1,A,M Atkinson,13,15,2,6,11,13,3,8,0,0,0,0,2020-2021,Yes,Lose,Lose,0,0,3
+2020-11-22,Leeds,Arsenal,0,0,D,0,0,D,A Taylor,25,9,4,2,9,8,5,3,3,0,0,1,2020-2021,No,Draw,Draw,1,0,0
+2020-11-29,Arsenal,Wolves,1,2,A,1,2,A,M Oliver,13,11,2,5,13,13,8,4,3,4,0,0,2020-2021,Yes,Lose,Lose,0,1,2
+2020-12-06,Tottenham,Arsenal,2,0,H,2,0,H,M Atkinson,6,11,3,2,16,12,3,9,1,2,0,0,2020-2021,No,Lose,Lose,0,0,2
+2020-12-13,Arsenal,Burnley,0,1,A,0,0,D,G Scott,18,10,6,2,5,11,13,4,2,1,1,0,2020-2021,Yes,Draw,Lose,0,0,1
+2020-12-16,Arsenal,Southampton,1,1,D,0,1,A,P Tierney,9,13,4,3,13,13,2,7,1,3,1,0,2020-2021,Yes,Lose,Draw,1,1,1
+2020-12-19,Everton,Arsenal,2,1,H,2,1,H,A Marriner,9,13,2,2,9,9,4,3,1,3,0,0,2020-2021,No,Lose,Lose,0,1,2
+2020-12-26,Arsenal,Chelsea,3,1,H,2,0,H,M Oliver,15,19,7,3,13,10,7,9,2,1,0,0,2020-2021,Yes,Win,Win,3,3,1
+2020-12-29,Brighton,Arsenal,0,1,A,0,0,D,M Atkinson,13,11,2,3,11,4,5,4,2,0,0,0,2020-2021,No,Draw,Win,3,1,0
+2021-01-02,West Brom,Arsenal,0,4,A,0,2,A,M Atkinson,7,21,3,12,7,4,3,5,1,2,0,0,2020-2021,No,Win,Win,3,4,0
+2021-01-14,Arsenal,Crystal Palace,0,0,D,0,0,D,A Marriner,11,12,4,2,10,11,7,3,1,1,0,0,2020-2021,Yes,Draw,Draw,1,0,0
+2021-01-18,Arsenal,Newcastle,3,0,H,0,0,D,D Coote,20,4,6,1,9,8,7,2,0,0,0,0,2020-2021,Yes,Draw,Win,3,3,0
+2021-01-26,Southampton,Arsenal,1,3,A,1,2,A,K Friend,13,9,5,5,11,6,4,5,1,2,0,0,2020-2021,No,Win,Win,3,3,1
+2021-01-30,Arsenal,Man United,0,0,D,0,0,D,M Oliver,17,14,3,3,9,16,4,7,1,3,0,0,2020-2021,Yes,Draw,Draw,1,0,0
+2021-02-02,Wolves,Arsenal,2,1,H,1,1,D,C Pawson,11,9,7,3,11,8,9,6,3,2,0,2,2020-2021,No,Draw,Lose,0,1,2
+2021-02-06,Aston Villa,Arsenal,1,0,H,1,0,H,C Kavanagh,12,14,8,3,12,12,3,7,3,2,0,0,2020-2021,No,Lose,Lose,0,0,1
+2021-02-14,Arsenal,Leeds,4,2,H,3,0,H,S Attwell,13,9,5,5,8,17,4,5,0,2,0,0,2020-2021,Yes,Win,Win,3,4,2
+2021-02-21,Arsenal,Man City,0,1,A,0,1,A,J Moss,7,15,1,3,11,9,1,3,2,2,0,0,2020-2021,Yes,Lose,Lose,0,0,1
+2021-02-28,Leicester,Arsenal,1,3,A,1,2,A,P Tierney,8,12,3,4,15,3,2,7,2,1,0,0,2020-2021,No,Win,Win,3,3,1
+2021-03-06,Burnley,Arsenal,1,1,D,1,1,D,A Marriner,9,15,5,3,5,12,2,4,1,1,0,0,2020-2021,No,Draw,Draw,1,1,1
+2021-03-14,Arsenal,Tottenham,2,1,H,1,1,D,M Oliver,13,6,3,3,12,14,6,3,1,2,0,1,2020-2021,Yes,Draw,Win,3,2,1
+2021-03-21,West Ham,Arsenal,3,3,D,3,1,H,J Moss,15,16,5,7,18,8,3,5,3,1,0,0,2020-2021,No,Lose,Draw,1,3,3
+2021-04-03,Arsenal,Liverpool,0,3,A,0,0,D,S Attwell,3,16,2,7,10,10,1,2,1,1,0,0,2020-2021,Yes,Draw,Lose,0,0,3
+2021-04-11,Sheffield United,Arsenal,0,3,A,0,1,A,P Bankes,7,14,2,5,9,6,2,4,1,1,0,0,2020-2021,No,Win,Win,3,3,0
+2021-04-18,Arsenal,Fulham,1,1,D,0,0,D,C Pawson,18,3,5,1,9,11,11,1,0,3,0,0,2020-2021,Yes,Draw,Draw,1,1,1
+2021-04-23,Arsenal,Everton,0,1,A,0,0,D,J Moss,14,8,3,1,13,10,7,3,1,3,0,0,2020-2021,Yes,Draw,Lose,0,0,1
+2021-05-02,Newcastle,Arsenal,0,2,A,0,1,A,M Dean,5,19,1,5,10,9,3,7,2,1,1,0,2020-2021,No,Win,Win,3,2,0
+2021-05-09,Arsenal,West Brom,3,1,H,2,0,H,P Bankes,15,12,7,1,7,9,6,6,1,2,0,0,2020-2021,Yes,Win,Win,3,3,1
+2021-05-12,Chelsea,Arsenal,0,1,A,0,1,A,A Marriner,19,5,5,2,7,6,9,1,0,1,0,0,2020-2021,No,Win,Win,3,1,0
+2021-05-19,Crystal Palace,Arsenal,1,3,A,0,1,A,A Taylor,12,6,6,3,7,7,6,7,2,1,0,0,2020-2021,No,Win,Win,3,3,1
+2021-05-23,Arsenal,Brighton,2,0,H,0,0,D,J Moss,16,5,5,1,10,8,11,3,0,0,0,0,2020-2021,Yes,Draw,Win,3,2,0
+2021-08-13,Brentford,Arsenal,2,0,H,1,0,H,M Oliver,8,22,3,4,12,8,2,5,0,0,0,0,2021-2022,No,Lose,Lose,0,0,2
+2021-08-22,Arsenal,Chelsea,0,2,A,0,2,A,P Tierney,6,22,3,5,10,4,9,8,3,0,0,0,2021-2022,Yes,Lose,Lose,0,0,2
+2021-08-28,Man City,Arsenal,5,0,H,3,0,H,M Atkinson,25,1,10,0,5,7,14,0,1,2,0,1,2021-2022,No,Lose,Lose,0,0,5
+2021-09-11,Arsenal,Norwich,1,0,H,0,0,D,M Oliver,30,10,7,1,9,11,8,4,1,2,0,0,2021-2022,Yes,Draw,Win,3,1,0
+2021-09-18,Burnley,Arsenal,0,1,A,0,1,A,A Taylor,18,13,3,3,9,8,8,3,2,1,0,0,2021-2022,No,Win,Win,3,1,0
+2021-09-26,Arsenal,Tottenham,3,1,H,3,0,H,C Pawson,12,10,7,4,12,13,4,4,2,1,0,0,2021-2022,Yes,Win,Win,3,3,1
+2021-10-02,Brighton,Arsenal,0,0,D,0,0,D,J Moss,21,8,2,2,8,5,8,5,2,1,0,0,2021-2022,No,Draw,Draw,1,0,0
+2021-10-18,Arsenal,Crystal Palace,2,2,D,1,0,H,M Dean,17,9,6,6,7,4,6,4,1,1,0,0,2021-2022,Yes,Win,Draw,1,2,2
+2021-10-22,Arsenal,Aston Villa,3,1,H,2,0,H,C Pawson,22,10,9,4,17,10,7,4,2,5,0,0,2021-2022,Yes,Win,Win,3,3,1
+2021-10-30,Leicester,Arsenal,0,2,A,0,2,A,M Oliver,16,9,8,5,8,11,7,6,2,0,0,0,2021-2022,No,Win,Win,3,2,0
+2021-11-07,Arsenal,Watford,1,0,H,0,0,D,K Friend,14,7,6,1,6,19,4,2,4,2,0,1,2021-2022,Yes,Draw,Win,3,1,0
+2021-11-20,Liverpool,Arsenal,4,0,H,1,0,H,M Oliver,19,5,9,3,15,12,6,1,2,0,0,0,2021-2022,No,Lose,Lose,0,0,4
+2021-11-27,Arsenal,Newcastle,2,0,H,0,0,D,S Attwell,24,9,6,5,6,12,4,4,1,3,0,0,2021-2022,Yes,Draw,Win,3,2,0
+2021-12-02,Man United,Arsenal,3,2,H,1,1,D,M Atkinson,14,17,10,8,9,10,3,8,1,0,0,0,2021-2022,No,Draw,Lose,0,2,3
+2021-12-06,Everton,Arsenal,2,1,H,0,1,A,M Dean,11,10,5,3,8,12,3,3,2,2,0,0,2021-2022,No,Win,Lose,0,1,2
+2021-12-11,Arsenal,Southampton,3,0,H,2,0,H,J Gillett,15,11,5,6,5,9,9,8,2,0,0,0,2021-2022,Yes,Win,Win,3,3,0
+2021-12-15,Arsenal,West Ham,2,0,H,0,0,D,A Taylor,21,7,8,1,8,9,5,2,2,0,0,1,2021-2022,Yes,Draw,Win,3,2,0
+2021-12-18,Leeds,Arsenal,1,4,A,0,3,A,A Marriner,9,21,2,12,11,7,1,4,3,1,0,0,2021-2022,No,Win,Win,3,4,1
+2021-12-26,Norwich,Arsenal,0,5,A,0,2,A,G Scott,4,16,2,6,13,7,3,5,1,2,0,0,2021-2022,No,Win,Win,3,5,0
+2022-01-01,Arsenal,Man City,1,2,A,1,0,H,S Attwell,7,15,2,2,13,5,5,5,3,2,1,0,2021-2022,Yes,Win,Lose,0,1,2
+2022-01-23,Arsenal,Burnley,0,0,D,0,0,D,D Coote,20,10,5,1,9,13,12,4,0,2,0,0,2021-2022,Yes,Draw,Draw,1,0,0
+2022-02-10,Wolves,Arsenal,0,1,A,0,1,A,M Oliver,15,12,4,2,12,13,7,4,2,3,0,1,2021-2022,No,Win,Win,3,1,0
+2022-02-19,Arsenal,Brentford,2,1,H,0,0,D,J Moss,24,6,8,2,10,5,14,0,1,1,0,0,2021-2022,Yes,Draw,Win,3,2,1
+2022-02-24,Arsenal,Wolves,2,1,H,0,1,A,M Atkinson,26,6,5,2,8,9,5,4,1,1,0,0,2021-2022,Yes,Lose,Win,3,2,1
+2022-03-06,Watford,Arsenal,2,3,A,1,2,A,C Pawson,13,16,7,4,5,11,1,5,1,2,0,0,2021-2022,No,Win,Win,3,3,2
+2022-03-13,Arsenal,Leicester,2,0,H,1,0,H,A Taylor,21,6,8,3,8,10,2,6,0,3,0,0,2021-2022,Yes,Win,Win,3,2,0
+2022-03-16,Arsenal,Liverpool,0,2,A,0,0,D,A Marriner,9,9,2,3,9,9,1,6,0,1,0,0,2021-2022,Yes,Draw,Lose,0,0,2
+2022-03-19,Aston Villa,Arsenal,0,1,A,0,1,A,A Madley,8,10,1,3,13,14,6,5,3,3,0,0,2021-2022,No,Win,Win,3,1,0
+2022-04-04,Crystal Palace,Arsenal,3,0,H,2,0,H,P Tierney,6,12,5,3,11,15,0,2,0,2,0,0,2021-2022,No,Lose,Lose,0,0,3
+2022-04-09,Arsenal,Brighton,1,2,A,0,1,A,D Coote,20,8,4,3,12,19,11,2,3,4,0,0,2021-2022,Yes,Lose,Lose,0,1,2
+2022-04-16,Southampton,Arsenal,1,0,H,1,0,H,P Bankes,9,23,3,6,6,6,6,8,2,1,0,0,2021-2022,No,Lose,Lose,0,0,1
+2022-04-20,Chelsea,Arsenal,2,4,A,2,2,D,J Moss,11,14,2,4,7,6,6,1,3,1,0,0,2021-2022,No,Draw,Win,3,4,2
+2022-04-23,Arsenal,Man United,3,1,H,2,1,H,C Pawson,14,14,7,5,9,12,1,7,3,4,0,0,2021-2022,Yes,Win,Win,3,3,1
+2022-05-01,West Ham,Arsenal,1,2,A,1,1,D,M Dean,8,13,3,7,8,9,3,7,2,2,0,0,2021-2022,No,Draw,Win,3,2,1
+2022-05-08,Arsenal,Leeds,2,1,H,2,0,H,C Kavanagh,19,3,9,2,13,15,8,2,2,2,0,1,2021-2022,Yes,Win,Win,3,2,1
+2022-05-12,Tottenham,Arsenal,3,0,H,2,0,H,P Tierney,16,8,6,4,8,15,2,2,1,3,0,1,2021-2022,No,Lose,Lose,0,0,3
+2022-05-16,Newcastle,Arsenal,2,0,H,0,0,D,D England,16,11,4,2,11,8,12,8,0,3,0,0,2021-2022,No,Draw,Lose,0,0,2
+2022-05-22,Arsenal,Everton,5,1,H,2,1,H,A Marriner,26,6,9,2,8,9,12,2,0,1,0,0,2021-2022,Yes,Win,Win,3,5,1
+2022-08-05,Crystal Palace,Arsenal,0,2,A,0,1,A,A Taylor,10,10,2,2,16,11,3,5,1,2,0,0,2022-2023,No,Win,Win,3,2,0
+2022-08-13,Arsenal,Leicester,4,2,H,2,0,H,D England,19,6,7,2,15,9,6,2,1,1,0,0,2022-2023,Yes,Win,Win,3,4,2
+2022-08-20,Bournemouth,Arsenal,0,3,A,0,2,A,C Pawson,6,14,1,6,12,10,3,4,2,1,0,0,2022-2023,No,Win,Win,3,3,0
+2022-08-27,Arsenal,Fulham,2,1,H,0,0,D,J Gillett,22,11,8,3,6,12,9,2,2,3,0,0,2022-2023,Yes,Draw,Win,3,2,1
+2022-08-31,Arsenal,Aston Villa,2,1,H,1,0,H,R Jones,22,4,9,3,10,14,10,3,2,3,0,0,2022-2023,Yes,Win,Win,3,2,1
+2022-09-04,Man United,Arsenal,3,1,H,1,0,H,P Tierney,10,16,6,3,13,9,2,5,3,3,0,0,2022-2023,No,Lose,Lose,0,1,3
+2022-09-18,Brentford,Arsenal,0,3,A,0,2,A,D Coote,5,13,2,7,10,10,3,3,0,2,0,0,2022-2023,No,Win,Win,3,3,0
+2022-10-01,Arsenal,Tottenham,3,1,H,1,1,D,A Taylor,22,7,9,3,10,10,5,2,2,1,0,1,2022-2023,Yes,Draw,Win,3,3,1
+2022-10-09,Arsenal,Liverpool,3,2,H,2,1,H,M Oliver,11,8,7,3,11,11,4,3,1,2,0,0,2022-2023,Yes,Win,Win,3,3,2
+2022-10-16,Leeds,Arsenal,0,1,A,0,1,A,C Kavanagh,16,9,4,4,10,11,6,3,0,2,0,0,2022-2023,No,Win,Win,3,1,0
+2022-10-23,Southampton,Arsenal,1,1,D,0,1,A,R Jones,10,12,3,3,11,8,9,4,2,1,0,0,2022-2023,No,Win,Draw,1,1,1
+2022-10-30,Arsenal,Nott'm Forest,5,0,H,1,0,H,S Hooper,24,5,10,2,9,8,9,4,0,1,0,0,2022-2023,Yes,Win,Win,3,5,0
+2022-11-06,Chelsea,Arsenal,0,1,A,0,0,D,M Oliver,5,14,1,2,20,13,4,6,5,2,0,0,2022-2023,No,Draw,Win,3,1,0
+2022-11-12,Wolves,Arsenal,0,2,A,0,0,D,S Attwell,11,14,2,4,5,6,6,4,3,2,0,0,2022-2023,No,Draw,Win,3,2,0
